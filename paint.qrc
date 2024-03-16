@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/color.png</file>
+        <file>images/fill.png</file>
+        <file>images/line.png</file>
+        <file>images/open.png</file>
+        <file>images/polygon.png</file>
+        <file>images/save.png</file>
+        <file>images/star.png</file>
+        <file>images/geometry.png</file>
+        <file>images/help.png</file>
+        <file>images/clear.png</file>
+        <file>images/letter-z.png</file>
+        <file>images/about.png</file>
+        <file>images/putin.gif</file>
+    </qresource>
+</RCC>
